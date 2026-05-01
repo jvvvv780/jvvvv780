@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">##About me<br><br>- 🎓 Student  <br>- 📚 Currently in the 3rd year of High School, studying Information Technology  <br>- 🎯 Future Software Engineer  <br>- 💡 Studying and improving my skills in software development  <br>- 🖥️ I enjoy programming, building projects, and technology  <br>- 🚀 Always seeking to grow as a developer</p>
+<p align="left"><strong>About me<strong><br><br>- 🎓 Student  <br>- 📚 Currently in the 3rd year of High School, studying Information Technology  <br>- 🎯 Future Software Engineer  <br>- 💡 Studying and improving my skills in software development  <br>- 🖥️ I enjoy programming, building projects, and technology  <br>- 🚀 Always seeking to grow as a developer</p>
 
 ###
 
