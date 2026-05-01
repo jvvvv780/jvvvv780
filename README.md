@@ -1,8 +1,8 @@
 <h1 align="center">Hello World, I'm João Vitor.</h1>
 
 ###
-
-<h4 align="left">About me<br><br>- 🎓 Student<img align="right" alt="dev" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJkMjFoMnI0YjhtOXEyMGhiemJyNHE0a21tc2wwMDY5OWMwNHFzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QowuvpSus8Y9qnlle8/giphy.gif" width=200>  <br>- 📚 Currently in the 3rd year of High School, studying Information Technology  <br>- 🎯 Future Software Engineer  <br>- 💡 Studying and improving my skills in software development  <br>- 🖥️ I enjoy programming, building projects, and technology  <br>- 🚀 Always seeking to grow as a developer</h4>
+<img align="right" alt="dev" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJkMjFoMnI0YjhtOXEyMGhiemJyNHE0a21tc2wwMDY5OWMwNHFzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QowuvpSus8Y9qnlle8/giphy.gif" width=200>
+<h4 align="left">About me<br><br>- 🎓 Student  <br>- 📚 Currently in the 3rd year of High School, studying Information Technology  <br>- 🎯 Future Software Engineer  <br>- 💡 Studying and improving my skills in software development  <br>- 🖥️ I enjoy programming, building projects, and technology  <br>- 🚀 Always seeking to grow as a developer</h4>
 
 
 ###
