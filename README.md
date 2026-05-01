@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left"><strong>About me<strong><br><br>- 🎓 Student  <br>- 📚 Currently in the 3rd year of High School, studying Information Technology  <br>- 🎯 Future Software Engineer  <br>- 💡 Studying and improving my skills in software development  <br>- 🖥️ I enjoy programming, building projects, and technology  <br>- 🚀 Always seeking to grow as a developer</p>
+<h4 align="left">About me<br><br>- 🎓 Student  <br>- 📚 Currently in the 3rd year of High School, studying Information Technology  <br>- 🎯 Future Software Engineer  <br>- 💡 Studying and improving my skills in software development  <br>- 🖥️ I enjoy programming, building projects, and technology  <br>- 🚀 Always seeking to grow as a developer</h4>
 
 ###
 
@@ -29,13 +29,5 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jvvvv780&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvvvv780/jvvvv780/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvvvv780/jvvvv780/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jvvvv780/jvvvv780/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
