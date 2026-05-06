@@ -5,6 +5,10 @@
 <h4 align="left">About me<br><br>- 🎓 Student  <br>- 📚 Currently in the 3rd year of High School, studying Information Technology  <br>- 🎯 Future Software Engineer  <br>- 💡 Studying and improving my skills in software development  <br>- 🖥️ I enjoy programming, building projects, and technology  <br>- 🚀 Always seeking to grow as a developer</h4>
 
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jvvvv780&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 ###
 
 <div align="center">
@@ -20,7 +24,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="80" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
 </div>
@@ -29,8 +33,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jvvvv780&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
 
 ###
