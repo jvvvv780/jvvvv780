@@ -1,4 +1,4 @@
-<h1 align="center">print("Hello World, I'm João Vitor").</h1>
+<h1 align="center">print("Hello World, I'm João Vitor");</h1>
 
 ###
 <img align="right" alt="dev" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJkMjFoMnI0YjhtOXEyMGhiemJyNHE0a21tc2wwMDY5OWMwNHFzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QowuvpSus8Y9qnlle8/giphy.gif" width=200>
